@@ -1,6 +1,6 @@
-#Bot de telegram
+## 🔥 ChatBot con Telegram
 
-##Configuracion
+## Configuracion
 
 1. Clona el repositorio
 2. Intala dependencias pip install pyTelegramBotAPI 
@@ -8,5 +8,5 @@
 4. Reemplaza 'TUTOKENAQUI' en main.py
 5. Ejecutar 'python main.py'
 
-##Funcionalidades:
+## Funcionalidades:
  - Responde comandos ''
