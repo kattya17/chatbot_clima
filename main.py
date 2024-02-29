@@ -2,9 +2,9 @@ import telebot
 from telebot import types
 import requests
 
-TOKEN = "6991046773:AAHijK_BQ1ARCT-zM6X28dCXiT-XJu_j4hY"
+TOKEN = 'TUTOKENAQUI'
 # APIKEY DE API DE DATOS DE UN SISTEMA DE CLIMA
-API_KEY = "34108505a04655656fc13d19a656405d"
+API_KEY = "API_KEY"
 
 bot = telebot.TeleBot(TOKEN)
 base_url = "https://api.openweathermap.org/data/2.5/weather?"
