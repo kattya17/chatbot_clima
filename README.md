@@ -1,6 +1,6 @@
-#Bot de telegram
+## 🤖 Chatbot de telegram
 
-##Configuracion
+## Configuracion
 
 1. Clona el repositorio
 2. Intala dependencias 'pip install pyTelegramBotAPI'
@@ -10,8 +10,8 @@
 6. Reemplaza 'API_KEY' en main.py
 5. Ejecutar 'python main.py'
 
-##Funcionalidades:
+## Funcionalidades:
  - Responde comandos '/help /start /meme /pregunta /clima ciudadrequerida'
 
- ##Errores:
+ ## Errores:
  - Ciudad de La Paz, se reconoce como "lapaz" : de esta manera se encuentra en la Api consumida
